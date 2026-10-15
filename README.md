@@ -33,11 +33,11 @@
 
 | Общий вид панели коллекции | Подсветка текущего фильма |
 | :---: | :---: |
-| ![Скриншот 1](screenshots/screenshot1.png) | ![Скриншот 2](screenshots/screenshot2.png) |
+| ![Скриншот 1](https://github.com/user-attachments/assets/9f47a7da-4b31-4ca1-982c-2a44cc4f516b) | ![Скриншот 2](https://github.com/user-attachments/assets/853a36a5-bb65-4e9e-88b4-687f6b88a653) |
 
 | Сортировка по годам (Хронология) | Адаптивность и мобильный вид |
 | :---: | :---: |
-| ![Скриншот 3](screenshots/screenshot3.png) | ![Скриншот 4](screenshots/screenshot4.png) |
+| ![Скриншот 3](https://github.com/user-attachments/assets/c5c62feb-1ef4-40db-9f6c-170260064e7e) | ![Скриншот 4](https://github.com/user-attachments/assets/e5c2f0a4-790d-472d-b763-db5cbcd33e9d) |
 
 ---
 
