@@ -12,6 +12,8 @@
 
 ### 🚀 [НАЖМИТЕ СЮДА ДЛЯ АВТО-УСТАНОВКИ](https://kw.xlnt.ovh/collection.user.js)
 *(Требуется установленный менеджер юзерскриптов, например [Tampermonkey](https://www.tampermonkey.net/))*
+
+### 🎥 [Скрипт для автоматического пропуска заставок/титров](https://github.com/vkdsk/kinowatch-skipper)
 </div>
 
 ---
